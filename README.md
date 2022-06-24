@@ -20,7 +20,7 @@
 ### Agregar
 
 ```html
-<style>@import "pcge.css";</style>
-<script src="plan-2019.js"></script>
-<script src="pcge.js"></script>
+<style>@import "https://moixllik.github.io/pcge.js/pcge.css";</style>
+<script src="https://moixllik.github.io/pcge.js/plan-2019.js"></script>
+<script src="https://moixllik.github.io/pcge.js/pcge.js"></script>
 ```
