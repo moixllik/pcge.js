@@ -3,6 +3,7 @@
 table.pcge {
     font-size:small;
     margin: 0 auto;
+    border-spacing: 0;
 }
 table.pcge th, table.pcge td {
     margin: 0;
