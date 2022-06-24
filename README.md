@@ -1,4 +1,10 @@
 # Extensión PCGE, Perú - 2019
+
+Se usa como base:
+
+* [La cuenta T y su notación matemática](https://muchik.net/p/la-cuenta-t-y-su-notacion-matematica)
+* [La partida doble y su tratamiento de datos](https://muchik.net/p/la-partida-doble-y-su-tratamiento-de-datos)
+
 ### Ejemplo
 
 ```pcge
@@ -16,6 +22,8 @@
     </tbody>
 </table>
 </details>
+
+Ejemplo de [Asientos contables usando PCGE](https://muchik.net/p/peru-asientos).
 
 ### Agregar
 
