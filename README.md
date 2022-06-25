@@ -7,11 +7,13 @@ Se usa como base:
 
 ### Ejemplo
 
-```pcge
+```
+<pcge>
 1212=1_000
 //
 40111=d_1212 / 1.18 * 18%;;
 70121=d_1212 / 1.18
+</pcge>
 ```
 
 <details>
