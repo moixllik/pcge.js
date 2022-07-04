@@ -1,17 +1,21 @@
 /* (c) 2022 Irving Montalvo | @moixllik
 */
 table.pcge {
-    font-size:small;
+    font-size: small;
     margin: 0 auto;
     border-spacing: 0;
+    width: auto;
+}
+table.pcge th {
+    text-align: center;
 }
 table.pcge th, table.pcge td {
     margin: 0;
-    padding: 0;
-    white-space:nowrap;
+    padding: 0 .5em;
+    white-space: nowrap;
 }
 table.pcge td:nth-child(2) {
-    white-space:normal;
+    white-space: normal;
 }
 table.pcge td:nth-child(3),
 table.pcge td:nth-child(4) {
